@@ -10,14 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "array-flatten": "^2.1.1",
-    "async": "^2.6.1",
     "body-parser": "^1.18.3",
-    "cors": "2.8.1",
-    "download-file": "^0.1.5",
     "express": "^4.16.3",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.1.2",
-    "xls-to-json": "^0.5.0"
+    "mongoose": "^5.1.2"
   }
 }
